@@ -1,2 +1,2 @@
 # bergamo-segnali-e-sistemi
-Repository for notes and MATLAB code for signals and systems as well as signal processing
+Repository for notes and MATLAB code regarding signals and systems as well as signal processing
